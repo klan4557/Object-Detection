@@ -1,1 +1,2 @@
-Python Yolov8, RoboFlow used Solo Project
+# Python Solo Project
+# used Yolov8, RoboFlow
